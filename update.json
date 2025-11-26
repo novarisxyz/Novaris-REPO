@@ -1,6 +1,6 @@
 {
   "version": "0.0.0",
-  "force": false,
+  "force": true,
   "reason": "Initial Release",
   "downloadUrl": "https://github.com/novarisxyz/Novaris-REPO/releases/download/v0.0.0/novaris-0.0.0.jar",
   "checksum": "25b341df0ebf4c94c8924857efddbba9cccbc9d9e7cc6f306901f4bccf050a75"
